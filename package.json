@@ -13,7 +13,7 @@
     "brain.js": "^1.4.2",
     "nba": "^4.5.0",
     "nba.js": "^0.6.1",
-    "papaparse": "^4.6.1"
+    "papaparse": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
